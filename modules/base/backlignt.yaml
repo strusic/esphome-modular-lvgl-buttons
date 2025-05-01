@@ -14,6 +14,7 @@ sun:
             id: brightness_mode
             option: "Day"
 
+
 time:
   - platform: homeassistant
     id: system_time
